@@ -1,7 +1,6 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/PyCompile/main/20211107_114000.jpg"/>
 
 <p align="center">
-<a href="mailto:miguardzecurity@gmail.com"><img title="Report bug" src="https://img.shields.io/badge/email-miguardzecurity%40gmail.com-darkblue?style=for-the-badge&logo=gmail"></a>
 <a href="https://github.com/mishakorzik/"><img title="Version" src="https://img.shields.io/badge/Version-1.0.0-darkblue?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/PyCompile/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-blue?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-1.X-blue?style=for-the-badge&logo=python"></a>
